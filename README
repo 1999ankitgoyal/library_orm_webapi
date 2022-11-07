@@ -1,0 +1,2 @@
+it is currently confugiured to work locally.
+To use docker, you need to change server to "db" instead of "localhost" in appsettings.

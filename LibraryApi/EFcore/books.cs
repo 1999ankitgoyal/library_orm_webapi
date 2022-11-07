@@ -8,7 +8,7 @@ namespace LibraryApi.EFcore
     {
         [Key,Required]
         public string? title { get; set; }
-        public DateOnly? DOP { get; set; } 
+        public string? DOP { get; set; } 
         public string? language { get; set; }
             
     }
